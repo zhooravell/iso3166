@@ -2,7 +2,8 @@ GoLang ISO-3166
 ===============
 > 3166-1 alpha-2, 3166-1 alpha-3, 3166-1 numeric
 
-[![License][license-image]][license-link]
+[![License][license-image]][license-link] 
+[![Build][build-image]][build-link] 
 
 # Examples
 
@@ -34,5 +35,6 @@ func main() {
 * [iso.org](https://www.iso.org/ru/iso-3166-country-codes.html)
 
 [license-link]: https://github.com/zhooravell/iso3166/blob/master/LICENSE
-
 [license-image]: https://img.shields.io/dub/l/vibe-d.svg
+[build-image]: https://github.com/zhooravell/iso3166/actions/workflows/go.yml/badge.svg
+[build-link]: https://github.com/zhooravell/iso3166/actions
